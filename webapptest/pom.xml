@@ -33,9 +33,7 @@
                 <configuration>
                     <url>http://localhost:8081/manager/text</url>
                     <server>TomcatServer</server>
-                    <username>admin</username>
-                    <password>password</password>
-                    <path>/client</path>
+                    <path>/client1</path>
                     <update>true</update>
                 </configuration>
             </plugin>
